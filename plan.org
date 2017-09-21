@@ -28,7 +28,7 @@
 |----------------+------------------+------------------+-------------------+-----------------------+--------------+------------+---------+------------------|
 | WeWork Galaxy  | Residency Road   | Coalition        |                   |                       |            0 |            |         |                0 |
 | Royal Orchid   | old airport road |                  | yes, both 1 and 2 |                   950 |        95000 |          0 |   10000 |           105950 |
-| Taj Gateway    | Residency Road   |                  | yes, both 1 and 2 |                  1350 |       135000 |       3500 |    5000 |           144850 |
+| Taj Gateway    | Residency Road   |                  | yes, both 1 and 2 |                  1350 |       135000 |          0 |    5000 |           144850 |
 | Magrath Hotel  | near to metro    |                  |                   |                       |            0 |            |         |                0 |
 | Park           | Marathalli       |                  |                   |                       |            0 |            |         |                0 |
 | Sangeeth Sabha | Indiranagar      |                  |                   |                       |            0 |            |         |                0 |
